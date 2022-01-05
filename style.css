@@ -33,3 +33,49 @@ a{
     border-radius: 3px;
     color: white;
 }
+
+.card{
+    display: flex;
+    align-items: center;
+
+}
+.card-1{
+    width: 20%;
+    margin-left: 5%;
+    margin-right: 5%;
+    border-radius:30px;
+    text-align: center;
+    padding: 10px;
+
+}
+#card-bg-1{
+    background-color: rgb(211, 232, 233);
+
+}
+#card-bg-1 img{
+    width: 100%;
+}
+#card-bg-2{
+    background-color: rgb(230, 189, 203);
+
+}
+#card-bg-2 img{
+    width: 100%;
+}
+#card-bg-3{
+    background-color: rgb(238, 211, 160);
+
+}
+#card-bg-3 img{
+    width: 100%;
+}
+.mission{
+    text-align: center;
+    font-size: 50px;
+    margin-top:20px ;
+    margin-bottom: 20px;
+}
+.mission span{
+    color: orange;
+}
+
