@@ -1,0 +1,34 @@
+body{
+    font-family: 'Rubik', sans-serif;
+    margin: 0;
+}
+section{
+    display: flex;
+}
+.half-width{
+    width: 50%;
+    padding-left: 10px;
+}
+.half-width img{
+    width: 80%;
+}
+#color-head{
+    color:orange;
+}
+.heading{
+    padding: 15px;
+}
+.header{
+    font-family: 'Volkhov', serif;
+    font-size: 40px;
+    border-left: 10px solid  tomato;
+    border-radius:5px ;
+    
+}
+a{
+    text-decoration: none;
+    background-color: tomato;
+    padding: 5px;
+    border-radius: 3px;
+    color: white;
+}
