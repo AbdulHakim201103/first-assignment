@@ -2,13 +2,17 @@ body{
     font-family: 'Rubik', sans-serif;
     margin: 0;
 }
+/*first-section css style*/
 .first-section{
     display: flex;
     margin-bottom: 100px;
+    margin-left:30px ;
+    margin-top: 30px;
 }
 .half-width{
     width: 50%;
-    padding-left: 10px;
+    margin-left:40px;
+    
 }
 .half-width img{
     width: 80%;
@@ -33,10 +37,12 @@ a{
     border-radius: 3px;
     color: white;
 }
-
+/*secand-section css style*/
 .card{
     display: flex;
     align-items: center;
+    margin-top: 100px;
+    margin-left: 30px;
 
 }
 .card-1{
@@ -78,4 +84,41 @@ a{
 .mission span{
     color: orange;
 }
+/*third section css style*/
+.third-section{
+    display: flex;
+    margin-top: 100px;
+    margin-left: 0;
+   
+}
+#developer-limits{
+    background-size: 500px;
+    background-position: left;
+    background-image: url(/image/shape-1.png);
+    background-repeat: no-repeat;
+}
+#developer-limits img{
+    margin: 80px;
+   
+}
+#third-section-div h1{
+    font-size: 30px;
+
+}
+/*four section css style*/
+.four-section{
+    display: flex;
+    margin-top: 100px;
+}
+#four-section-div h1{
+    font-size: 30px;
+}
+#global-community{
+    background-size: 500px;
+    background-image: url(/image/shape-1.png);
+    background-repeat: no-repeat;
+    background-position: bottom right;
+}
+
+
 
