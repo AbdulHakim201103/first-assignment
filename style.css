@@ -157,6 +157,19 @@ a{
     width: 15%;
     margin-bottom: 15px;
 }
+footer{
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
+footer h1{
+    font-family: 'Kaushan Script', cursive;
+    font-size: 40px;
+}
+footer h1 span{
+    color: orangered;
+}
 
 
 
